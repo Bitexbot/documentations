@@ -16,7 +16,7 @@ You can very easily add your Bybit API key by following the below steps:
 2. Naming the API something memorable such as "Bitexbot API".
 
 :::warning
-Please make sure your API key has "Positions" and "Orders" permissions. Do not select any Wallet permissions. This is not something that Bitexbot wants or needs to operate successfully.
+Please make sure your API key has "Positions", "Orders" and "Trade" permissions. Do not select any Wallet permissions. This is not something that Bitexbot wants or needs to operate successfully.
 :::
 
 <ImageWrapper>

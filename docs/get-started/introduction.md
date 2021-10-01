@@ -24,4 +24,4 @@ Follow these guides to get everything set up to use Bitexbot, or feel free to ju
 - [Setup Binance API Key](/exchange/binance)
 - [Setup Bybit API Key](/exchange/bybit)
 
-If you can't find what you need, feel free to visit the [Bitexbot Discord](https://discord.gg/3aYyb2g7Uv) and ask for help there!
+If you can't find what you need, feel free to visit the [Bitexbot Discord](https://discord.gg/G4vHmWEuXE) and ask for help there!
