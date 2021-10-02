@@ -6,7 +6,7 @@ module.exports = {
   title: "Bitexbot",
   tagline:
     "Free Automate TradingView Alerts on Binance, Binance Futures and Bybit",
-  url: "https://Bitexbot.github.io",
+  url: "https://bitexbot.github.io",
   baseUrl: "/documentations/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -29,7 +29,7 @@ module.exports = {
         //   label: "Tutorial",
         // },
         {
-          href: "https://github.com/Bitexbot/documentations",
+          href: "https://github.com/bitexbot/documentations",
           label: "GitHub",
           position: "right",
         },
@@ -73,7 +73,7 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/Bitexbot/documentations",
+              href: "https://github.com/bitexbot/documentations",
             },
           ],
         },
@@ -92,7 +92,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: "https://github.com/Bitexbot/documentations/edit/master/",
+          editUrl: "https://github.com/bitexbot/documentations/edit/master/",
         },
         blog: {
           showReadingTime: true,
