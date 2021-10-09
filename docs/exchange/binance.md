@@ -22,7 +22,7 @@ Please make sure your API key has "Enable Spot and Margin Trading" permission. D
 :::
 
 <ImageWrapper>
-    <img src={require('/img/tutorial/binance-apikey-1.png').default} alt="Bybit apikey form" />
+    <img src={require('/img/tutorial/binance-apikey-1.png').default} alt="Binance apikey form" />
 </ImageWrapper>
 
 5. Copy and past the public and secret key into [Bitexbot API Key form](/get-started/apikey-guide.md#connect-bitexbot-to-your-exchange).

@@ -19,17 +19,18 @@ Below are some of the exchanges we currently support along with short tutorials 
 
 **Spot**
 - [Binance](/exchange/binance)
+- FTX
 
 **Perpetual or Quarterly Futures**
 - [Binance Futures USDⓈ-M](/exchange/binance)
 - [Binance Futures COIN-M](/exchange/binance)
 - [Bybit](/exchange/bybit)
+- FTX
 
 We are working hard on adding other exchanges soon. Potential exchanges we are looking to integrate are:
 - Coinbase PRO
 - Bitmex
 - Kraken
-- FTX
 - HitBTC
 - Poloniex
 - Huobi
