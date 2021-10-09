@@ -6,7 +6,7 @@ module.exports = {
   title: "Bitexbot",
   tagline:
     "Free Automate TradingView Alerts on Binance, Binance Futures, Bybit and FTX.",
-  url: "https://bitexbot.github.io",
+  url: "https://docs.bitexbot.org",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
