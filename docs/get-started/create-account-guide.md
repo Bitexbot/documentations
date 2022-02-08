@@ -8,13 +8,13 @@ Before you can use Bitexbot's tools and services, you'll need a **free Bitexbot 
 
 ## Sign up
 
-1. Go to the [Bitexbot Account creation page](https://www.bitexbot.org/signup).
+1. Go to the [Bitexbot Account creation page](https://app.bitexbot.org/signup).
 2. You’ll be prompted to enter information such as your username, email and password. Make sure you enter your email address correctly and choose an email address that only you can access, and click the **Sign Up** button.
 3. We will immediately send you an email with instructions so we can verify your email address.
 
 ## Sign in
 
-1. Go to the [Bitexbot Account login page](https://www.bitexbot.org/login).
+1. Go to the [Bitexbot Account login page](https://app.bitexbot.org/login).
 2. Enter your Bitexbot email and password.
 
 :::tip
