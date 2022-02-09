@@ -50,18 +50,18 @@ module.exports = {
         {
           title: "Community",
           items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/bitexbot",
-            },
+            // {
+            //   label: "Stack Overflow",
+            //   href: "https://stackoverflow.com/questions/tagged/bitexbot",
+            // },
             {
               label: "Discord",
               href: "https://discord.gg/G4vHmWEuXE",
             },
-            // {
-            //   label: "Twitter",
-            //   href: "https://twitter.com/bitexbot",
-            // },
+            {
+              label: "Twitter",
+              href: "https://twitter.com/bitex_bot",
+            },
           ],
         },
         {
@@ -101,6 +101,10 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        sitemap: {
+          changefreq: "monthly",
+          priority: 0.5,
         },
       },
     ],
