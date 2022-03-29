@@ -15,7 +15,9 @@ You can very easily add your Binance API key by following the below steps:
 1. Go to Binance and navigate to **Profile > API Management**
 2. Naming the API something memorable such as "Bitexbot API".
 3. Click on "Create API" and complete the required security verification.
-4. Once the key is generated click on "Edit restrictions" and select "Enable Spot and Margin Trading" permission and hit "Save".
+4. Once the key is generated click on "Edit restrictions" and select "Enable Spot and Margin Trading" permission.
+5. To avoid that your API key expires, click on "Restrict access to trusted IPs only (Recommended)" then copy and paste our trusted IP **78.47.73.106** and click "Confirm".
+6. Hit "Save".
 
 :::warning
 Please make sure your API key has "Enable Spot and Margin Trading" permission. Do not select withdrawal permissions. This is not something that Bitexbot wants or needs to operate successfully.

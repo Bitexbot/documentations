@@ -24,3 +24,7 @@ To create an API Key:
 2. On the **API Keys** page, click the **Create API** button.
 3. You’ll be prompted to enter information such as label, exchange, public and secret api keys.
 4. Click **Create**.
+
+:::tip
+Some Exchanges (e.g. Binance and Bybit) let you create API Keys with limited validity (usually 90 days) if you don't bind them to a trusted IP. To avoid that your API key expires you can use our trusted IP **78.47.73.106**.
+:::
