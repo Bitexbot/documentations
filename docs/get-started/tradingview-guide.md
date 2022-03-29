@@ -31,7 +31,7 @@ After selecting this option, a text field will appear in which you have to paste
 </ImageWrapper>
 
 :::info
-For more information on how to correctly create the webhook message, click here.
+For more information on how to correctly create the webhook message, [click here](webhook-message-guide.md).
 :::
 
 <!--
