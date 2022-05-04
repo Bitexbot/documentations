@@ -22,7 +22,7 @@ Activate the Stop Loss option, than you can choose between "Percentage" or "Abso
 
 ## How to set Take Profit
 
-Activate the Take Profit option, then you can specify the Target Price as a percent value or define a fixed price where the take profit should be placed. You can split your Take Profit up to 5 Target Prcie, in this case all amount values must be combined equal or less than 100. For example if you have 4 Take Profit target you can set each Take Profit to 25%.
+Activate the Take Profit option, then you can specify the Target Price as a percent value or define a fixed price where the take profit should be placed. You can split your Take Profit up to 5 Target Price, in this case all amount values must be combined equal or less than 100. For example if you have 4 Take Profit target you can set each Take Profit to 25%.
 
 <ImageWrapper>
     <img src={require('/img/tutorial/take-profit-1.png').default} alt="Take Profit Bitexbot" />
