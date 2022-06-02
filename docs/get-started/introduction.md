@@ -22,6 +22,8 @@ Follow these guides to get everything set up to use Bitexbot, or feel free to ju
 ## Guides for setting API keys on the supported Exchanges
 
 - [Setup Binance API Key](/exchange/binance)
+- [Setup BitMEX API Key](/exchange/bitmex)
 - [Setup Bybit API Key](/exchange/bybit)
+- [Setup FTX API Key](/exchange/ftx)
 
 If you can't find what you need, feel free to visit the [Bitexbot Discord](https://discord.gg/G4vHmWEuXE) and ask for help there!
