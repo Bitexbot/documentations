@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Bitexbot",
   tagline:
-    "Free Automate TradingView Alerts on Binance, Binance Futures, Bybit and FTX.",
+    "Free Automate TradingView Alerts on Binance, Binance Futures, Bybit, Kraken and BitMEX.",
   url: "https://docs.bitexbot.org",
   baseUrl: "/",
   onBrokenLinks: "warn",
